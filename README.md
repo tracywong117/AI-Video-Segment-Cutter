@@ -8,7 +8,7 @@ In this project, we use the Whisper base model to quickly generate subtitles for
 1. Prepare the video
 2. Install the dependencies
 ```plaintext
-pip3 install -r requirements.
+pip3 install -r requirements.txt
 ```
 3. Run 
 ```plaintext
