@@ -8,12 +8,9 @@ In this project, we use the Whisper base model to quickly generate subtitles for
 1. Prepare the video
 2. Install the dependencies
 ```plaintext
-pip3 -r requirements.txt
+pip3 install -r requirements.
 ```
 3. Run 
 ```plaintext
 python3 ai-video-segment-cutter.py -i <path_to_input_video_file> -t <keyword>
 ```
-
-## demo
-![demo](OpenAI-testing-video.mp4_segments.mp4)
