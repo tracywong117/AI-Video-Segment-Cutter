@@ -1,4 +1,5 @@
 # AI Video Segment Cutter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1ICa2nh3mbflJCrJ4oKNUHWTZ9_vTJw8F?usp=sharing](https://colab.research.google.com/drive/18GD-tQ9hIRG6f_9hLGMqSjx8PNTXPmy3?usp=sharing))
 
 Video Segment Cutter is a program that allows you to cut segments of a video based on specified keywords. With this tool, you can extract specific sections of a video that contain the desired keywords, making it easier to analyze or highlight relevant content.
 
